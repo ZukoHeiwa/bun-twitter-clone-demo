@@ -1,23 +1,97 @@
-# Next.js + Tailwind CSS Example
+# bun-twitter-clone-demo
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+bun-twitter-clone-demo is a simple Social media template website with some backend working for you to start using that includes Bun package manager, NextJS, and TailwindCSS.
 
-## Deploy your own
+## Table of Contents
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support and Contact](#support-and-contact)
+- [Author](#author)
+## Installation
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+To run bun-twitter-clone-demo on your local machine, follow these steps:
 
-## How to use!
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-# or
-pnpm create next-app -- --example with-tailwindcss with-tailwindcss-app
+Before installation make sure you have bun
+```
+bun --version
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+Otherwise ddownload here https://bun.sh/, after the installation of npm you can start with yarn installation:
+
+```
+curl -fsSL https://bun.sh/install | bash
+```
+Check installation:
+
+```
+bun --version
+```
+
+Now you are ready to start with:
+
+1. Clone the repository:
+
+    ```bash
+   git clone https://github.com/zukoheiwa/bun-twitter-clone-demo.git
+    ```
+2. Navigate to the project directory:
+
+    ```bash
+    cd bun-twitter-clone-demo
+    ```
+3. Install dependencies:
+    ```bash
+    bun install
+    ```
+
+4. Start the development:
+    ```bash
+    bun run dev
+    ```
+
+# Usage
+Usage
+Once the app is running, open your web browser and access bun-twitter-clone-demo at http://localhost:3000. Here's how you can use it:
+
+- You can start by editing index.js
+
+# Features
+- Bun, NextJS, Javascript, TailwindCSS.
+
+# Contributing
+We welcome contributions from the community! To contribute to bun-twitter-clone-demo, please follow these guidelines:
+1. Fork the repository and create a new branch for your feature or bug fix.
+2. Make your changes, ensuring to maintain coding standards.
+3. Submit a pull request, describing your changes in detail.
+
+# License
+bun-twitter-clone-demo is open-source software licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+# Support and Contact
+If you have questions, encounter issues, or want to get involved in the development, please contact me via:
+- 📫 via Email **zukoheiwabusiness@gmail.com**
+- 📄 via Issues https://github.com/zukoheiwa/bun-twitter-clone-demo/issues 
+
+## Author
+&#8226; ZukoHeiwa
+<div>
+<a href="https://www.youtube.com/channel/UCt3X0lR50_2yqdj9o3LUpKA" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-blue?style=for-the-badge&logo=twitter" alt="twitter" />
+</a>
+<br>
+<a href="https://twitter.com/ZukoHeiwa" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-red?style=for-the-badge&logo=youtube" alt="youtube" />
+</a>
+<br>
+<a href="https://github.com/ZukoHeiwa" target="blank">
+  <img src="https://img.shields.io/badge/@ZukoHeiwa-black?style=for-the-badge&logo=github" alt="github" />
+</a>
+</div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zukoheiwa&show_icons=true&locale=en&layout=compact" alt="zukoheiwa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zukoheiwa&show_icons=true&locale=en" alt="zukoheiwa" /></p>
