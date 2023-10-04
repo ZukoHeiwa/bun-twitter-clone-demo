@@ -52,7 +52,7 @@ Now you are ready to start with:
     ```bash
     bun run dev
     ```
-5. This is a Sanity io Database https://bun-twitter-clone-demo.vercel.app/ 
+5. This is the Sanity io Database https://bun-twitter-clone-demo.vercel.app/ 
 
 # Usage
 Usage
