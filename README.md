@@ -1,6 +1,6 @@
 # bun-twitter-clone-demo
 
-bun-twitter-clone-demo is a simple Social media template website with some backend working for you to start using that includes Bun package manager, NextJS, and TailwindCSS.
+bun-twitter-clone-demo is a simple Social media template website with some backend working for you to start using that includes Bun package manager, NextJS, Sanity io, and TailwindCSS.
 
 ## Table of Contents
 
@@ -52,6 +52,7 @@ Now you are ready to start with:
     ```bash
     bun run dev
     ```
+5. This is a Sanity io Database https://bun-twitter-clone-demo.vercel.app/ 
 
 # Usage
 Usage
