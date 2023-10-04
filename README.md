@@ -61,7 +61,7 @@ Once the app is running, open your web browser and access bun-twitter-clone-demo
 - You can start by editing index.js
 
 # Features
-- Bun, NextJS, Javascript, TailwindCSS.
+- Bun, NextJS, Sanity io, Javascript, TailwindCSS.
 
 # Contributing
 We welcome contributions from the community! To contribute to bun-twitter-clone-demo, please follow these guidelines:
